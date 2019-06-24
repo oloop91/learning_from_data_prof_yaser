@@ -1,2 +1,4 @@
 # learning_from_data_prof_yaser
-Repositary for homework and related resources
+Repository for homework and related resources
+
+#Hello_GitHub
